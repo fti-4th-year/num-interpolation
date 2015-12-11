@@ -1,0 +1,7 @@
+*.txt
+*.config
+*.creator
+*.user
+*.files
+*.includes
+run
